@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-btatmega328-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "btatmega328",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab-2-morse-keithmathe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Debug-btatmega328-59983b0113e56c82f0cd.json",
+					"name" : "Debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Production::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Production-btatmega328-a96e79946c3af3bc8289.json",
+					"name" : "Production",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Z_DUMMY_TARGET-btatmega328-9d9a06387ca682c658db.json",
+					"name" : "Z_DUMMY_TARGET",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/keithmathe/Desktop/SPRING2023/ESE3500/lab2/lab-2-morse-keithmathe/cmake-build-btatmega328",
+		"source" : "/Users/keithmathe/Desktop/SPRING2023/ESE3500/lab2/lab-2-morse-keithmathe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

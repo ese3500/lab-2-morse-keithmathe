@@ -1,0 +1,6 @@
+# ninja log v5
+0	1753	1675442358520555523	CMakeFiles/Z_DUMMY_TARGET.dir/src/main.c.obj	b782a7e6c9030b79
+1754	3527	1675442360292240778	Z_DUMMY_TARGET	fea561f1a9760837
+0	682	0	/Users/keithmathe/Desktop/SPRING2023/ESE3500/lab2/lab-2-morse-keithmathe/cmake-build-btatmega328/CMakeFiles/Production	d9c09022f52a2eb3
+0	682	0	CMakeFiles/Production	d9c09022f52a2eb3
+0	47	1676056134776883543	build.ninja	6a76262b8c0fc831

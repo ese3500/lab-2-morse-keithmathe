@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=btatmega328 -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/keithmathe/Desktop/SPRING2023/ESE3500/lab2/lab-2-morse-keithmathe -B /Users/keithmathe/Desktop/SPRING2023/ESE3500/lab2/lab-2-morse-keithmathe/cmake-build-btatmega328
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/keithmathe/Desktop/SPRING2023/ESE3500/lab2/lab-2-morse-keithmathe/cmake-build-btatmega328
